@@ -1,0 +1,20 @@
+{
+  "name": "curso-scopeclosure",
+  "version": "1.0.0",
+  "description": "curso de scope y clouser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fronthen-Developer/Curso-scopeClosure.git"
+  },
+  "author": "Deivy Steven Rivas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fronthen-Developer/Curso-scopeClosure/issues"
+  },
+  "homepage": "https://github.com/Fronthen-Developer/Curso-scopeClosure#readme",
+  "keywords": []
+}
